@@ -1,5 +1,5 @@
 {
-  "name": "tdd-example-node",
+  "name": "tdd-example",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
